@@ -1,7 +1,8 @@
 # Elidus Kuben Shade
 
-![Elidus Kuben Lamp](assets/reference.png)
-![Elidus Kuben Shade Model](assets/model.png)
+|                     Model                     |                 Reference                  |
+| :-------------------------------------------: | :----------------------------------------: |
+| ![Elidus Kuben Shade Model](assets/model.png) | ![Elidus Kuben Lamp](assets/reference.png) |
 
 This repository contains a 3D model, based on the original design by Hans-Agne Jakobsson, of a shade for the [Elidus Kuben](https://auctionet.com/en/4023320-hans-agne-jakobsson-a-1970-s-elidus-kuben-table-lamp) lamp. Most of these lamps, on the second-hand market, are missing the shade.
 
